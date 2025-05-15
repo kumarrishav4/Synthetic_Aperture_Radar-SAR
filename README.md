@@ -35,7 +35,7 @@ Synthetic Aperture Radar (SAR) is a remote sensing technique that enables high-r
 |--------------|------------------------------------------------------------------------------|
 | Param Gupta  | Point-target SAR system, parameter analysis, environmental condition models |
 | Kumar Rishav | DEM integration, terrain-based imaging, data visualization, final presentation |
-| Naman Garg   | MATLAB code documentation, results interpretation, report compilation       |
+
 
 ---
 
