@@ -34,7 +34,7 @@ Synthetic Aperture Radar (SAR) is a remote sensing technique that enables high-r
 | Name         | Contribution                                                                 |
 |--------------|------------------------------------------------------------------------------|
 | Param Gupta  | Point-target SAR system, parameter analysis, environmental condition models |
-| Kumar Rishav | DEM integration, terrain-based imaging, data visualization, final presentation |
+| Kumar Rishav | DEM integration, terrain-based imaging, data visualization, final presentation 
 
 
 ---
@@ -83,26 +83,6 @@ Environmental conditions are simulated using ITU-R-based attenuation models:
 ### Environmental Robustness
 - SAR remains resilient in fog and snow.
 - Rain has the most pronounced negative impact on SNR and clarity.
-
----
-
-## 📁 Repository Structure
-
-sar-simulation/
-│
-├── data/ # Digital Elevation Models (DEM)
-├── images/ # Output SAR images
-├── scripts/
-│ ├── point_target_sim.m # Point target simulation
-│ ├── terrain_imaging_dem.m # Terrain imaging using DEM
-│ ├── model_rain.m # Rain effect model
-│ ├── model_fog.m # Fog effect model
-│ ├── model_snow.m # Snowfall effect model
-│ └── utils/ # Utility functions (compression, visualization, etc.)
-├── results/ # Processed result images and data
-├── README.md
-└── LICENSE
-
 
 ---
 
